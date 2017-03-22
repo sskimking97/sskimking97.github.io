@@ -6,7 +6,7 @@
 	<title>시간표</title>
 	<style>
 		table, tr, td, th {
-			border: 1px solid black;
+			border: 1px solid gray;
 			border-collapse: collapse;
 			text-align: center;
 		}
@@ -14,7 +14,7 @@
 </head>
 <body>
 	<table>
-		<caption>20161398 김성수 </caption>
+		<caption><h2>20161398 김성수 </h2></caption>
 		<thead>
 			<tr>
 				<th></th>
