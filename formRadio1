@@ -1,10 +1,10 @@
 
-<!doctype html> <!-- formText1.html -->
+<!doctype html> <!-- formRadio1.html -->
 <html><head><meta charset="utf-8"/><meta name="viewport"content="width=device-width,initial-sale=1"/>
 <title>폼 학습</title></head>
 <body>
 <section>
-<form action="http://hive.dju.ac.kr/~drkdhong/html5/formText1.jsp"method="post">
+<form action="http://hive.dju.ac.kr/~drkdhong/html5/formRadio1.jsp"method="post">
 <fieldset>
  <legend>성별 선택</legend>
   <label for="malex">남자</label>
