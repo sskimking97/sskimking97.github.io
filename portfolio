@@ -4,8 +4,9 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>포트폴리오</title>
-<header>포트폴리오</header>
+<header><h1>포트폴리오</h1></header>
 <body>
+<h3>프레젠테이션</h3>
 <li><a href="http://sskimking97.github.io/ppt.pptx">ppt</a></li>
 </body>
 </head></html>
